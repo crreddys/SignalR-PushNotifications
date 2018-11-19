@@ -1,0 +1,17 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SignalRHubApi", "SignalRHubApi.csproj", "{ACCCE59F-A381-4409-859F-E52B59D1E397}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{ACCCE59F-A381-4409-859F-E52B59D1E397}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ACCCE59F-A381-4409-859F-E52B59D1E397}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ACCCE59F-A381-4409-859F-E52B59D1E397}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ACCCE59F-A381-4409-859F-E52B59D1E397}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
